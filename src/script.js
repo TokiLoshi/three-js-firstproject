@@ -46,6 +46,7 @@ const eighthMatcapTexture = textureLoader.load("/textures/matcaps/8.png");
 eighthMatcapTexture.colorSpace = THREE.SRGBColorSpace;
 
 console.log("matcapTexture", matcapTexture);
+console.log("added");
 
 /**
  * Fonts
